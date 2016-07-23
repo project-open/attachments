@@ -5,11 +5,17 @@
   <msg key="Add_File">Datei hinzufügen</msg>
   <msg key="Add_folder_Link">Ordnerlink hinzufügen</msg>
   <msg key="Add_pretty_name">%pretty_name% hinzufügen</msg>
+  <msg key="Are_you_sure_detach">Sind Sie sicher, dass Sie diesen Anhang enfernen wollen?</msg>
   <msg key="Attach">Anhängen</msg>
   <msg key="attach_new">Anfügen: &lt;b&gt;Neue&lt;/b&gt; </msg>
   <msg key="Attach_URL">URL anhängen</msg>
+  <msg key="Attachment">Anhang</msg>
+  <msg key="Can_delete">Dies ist das einzige Objekt mit dem der Punkt verknüpft ist. Sie können es auch aus dem Filestorage löschen.</msg>
   <msg key="Choose">Auswählen</msg>
+  <msg key="delete_from_fs">Diesen Anhang aus dem Filestorage löschen?</msg>
   <msg key="Description">Beschreibung:</msg>
+  <msg key="Detach">Trennen</msg>
+  <msg key="Detach_file_from">Datei von Objekt %object_name% trennen</msg>
   <msg key="File">Datei</msg>
   <msg key="Last_Modified">Zuletzt geändert</msg>
   <msg key="lt_Add_Attachment_Folder">Link zu einem angehängten Ordner hinzufügen</msg>
@@ -36,6 +42,9 @@
   <msg key="Name">Name</msg>
   <msg key="No_such_type">Typ nicht vorhanden</msg>
   <msg key="Object">Objekt</msg>
+  <msg key="on_Object">an Objekt</msg>
+  <msg key="Only_detach">Dieses Element ist ein Anhang für ein anderes Objekt. Sie können es vom Objekt trennen, aber nicht komplett aus dem Filestorage löschen.</msg>
+  <msg key="remove">entfernen</msg>
   <msg key="Size">Größe</msg>
   <msg key="Title">Name das Dokuments:</msg>
   <msg key="Top">Anfang</msg>
