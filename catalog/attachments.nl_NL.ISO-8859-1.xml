@@ -28,9 +28,9 @@ map_naam XXX... Een koppeling hiernaar maken?</msg>
   <msg key="lt_The_specified_parent_">De gekozen bovenliggende map is niet geldig</msg>
   <msg key="lt_To_attach_a_file_alre">Om een bestand uit een map bij te voegen, dient op de mapnaam te worden geklikt en vervolgens op de koppeling &amp;quot;[ Kiezen ]&amp;quot; naast het bestand. Om een nieuw bestand in een map te plaatsen, dient op de mapnaam te worden geklikt en vervolgens op de koppeling &amp;quot;Invoeren nieuw bestand | URL&amp;quot;</msg>
   <msg key="lt_Upload_New_Attachment">Nieuwe bijlage aanbieden</msg>
-  <msg key="lt_Use_the_Browse_button">De knop \&quot;Bladeren\&quot; gebruiken om een bestand te vinden en dan op \&quot;Openen\&quot; klikken</msg>
+  <msg key="lt_Use_the_Browse_button">De knop \&#34;Bladeren\&#34; gebruiken om een bestand te vinden en dan op \&#34;Openen\&#34; klikken</msg>
   <msg key="lt_You_are_attaching_a_d">Er wordt een document bij %pretty_object_name% bijgevoegd.</msg>
-  <msg key="lt_You_probably_clicked_">Je hebt waarschijnlijk meer dan eens op de knop &quot;Toevoegen&quot; geklikt. Controleer of het bestand correct in de &lt;a href=&quot;%folder_url%&quot;&gt;gewenste map&lt;/a&gt; is opgeslagen. De knop &quot;Terug&quot; van de browser kan gebruikt worden om de handeling te herhalen.</msg>
+  <msg key="lt_You_probably_clicked_">Je hebt waarschijnlijk meer dan eens op de knop &#34;Toevoegen&#34; geklikt. Controleer of het bestand correct in de &lt;a href=&#34;%folder_url%&#34;&gt;gewenste map&lt;/a&gt; is opgeslagen. De knop &#34;Terug&#34; van de browser kan gebruikt worden om de handeling te herhalen.</msg>
   <msg key="lt_Your_file_is_larger_t">Het bestand is groter dan de maximaal toegestane omvang (%max_number_of_bytes% bytes)</msg>
   <msg key="Name">Naam</msg>
   <msg key="No_such_type">Dit type bestaat niet</msg>
