@@ -27,9 +27,9 @@
   <msg key="lt_The_specified_parent_">Määritelty isähakemisto ei kelpaa.</msg>
   <msg key="lt_To_attach_a_file_alre">Liittääksesi tiedoston joka löytyy jo kansiosta avaa kansio näpäyttämällä sen nimeä. Klikkaa sitten &amp;quot;[ Choose ]&amp;quot; -linkkiä tiedoston vieressä. Tallentaaksesi uuden tiedoston kansioon avaa kansio ja klikkaa sitten asianmukaista &amp;quot;Attach a new: File | URL&amp;quot; -linkkiä.</msg>
   <msg key="lt_Upload_New_Attachment">Lisää uusi liitetiedosto</msg>
-  <msg key="lt_Use_the_Browse_button">Käytä &#34;Browse...&#34; -näppäintä etsiäksesi haluamasi tiedosto, ja valitse sen jälkeen &#34;Open&#34;.</msg>
+  <msg key="lt_Use_the_Browse_button">Käytä &quot;Browse...&quot; -näppäintä etsiäksesi haluamasi tiedosto, ja valitse sen jälkeen &quot;Open&quot;.</msg>
   <msg key="lt_You_are_attaching_a_d">Olet liittämässä dokumenttia kohteeseen %pretty_object_name%.</msg>
-  <msg key="lt_You_probably_clicked_">Painoit Lisää-painiketta luultavasti useammin kuin kerran. Tarkista, onko tiedosto haluamassasi &lt;a href=&#34;%folder_url%&#34;&gt;kansiossa&lt;/a&gt;, tai käytä Back-näppäintä ja anna tiedosto uudelleen.</msg>
+  <msg key="lt_You_probably_clicked_">Painoit Lisää-painiketta luultavasti useammin kuin kerran. Tarkista, onko tiedosto haluamassasi &lt;a href=&quot;%folder_url%&quot;&gt;kansiossa&lt;/a&gt;, tai käytä Back-näppäintä ja anna tiedosto uudelleen.</msg>
   <msg key="lt_Your_file_is_larger_t">Tiedostosi on suurempi kuin järjestelmän suurin sallittu tiedostokoko (%max_number_of_bytes% bytes).</msg>
   <msg key="Name">Nimi</msg>
   <msg key="No_such_type">Kyseistä tyyppiä ei ole olemassa</msg>

@@ -5,11 +5,17 @@
   <msg key="Add_File">Aggiungi un File</msg>
   <msg key="Add_folder_Link">Aggiungi un collegamento a una cartella</msg>
   <msg key="Add_pretty_name">Aggiungi un %pretty_name%</msg>
+  <msg key="Are_you_sure_detach">Sei sicuro di voler eliminare questo allegato?</msg>
   <msg key="Attach">Allega</msg>
   <msg key="attach_new">Allega un &lt;b&gt;nuovo&lt;/b&gt;:</msg>
   <msg key="Attach_URL">Allega una URL</msg>
+  <msg key="Attachment">Allegato</msg>
+  <msg key="Can_delete">Questo è l&#39;unico oggetto al quale questo elemento è stato allegato. Puoi anche scegliere di eliminarlo dal file storage.</msg>
   <msg key="Choose">Scegli</msg>
+  <msg key="delete_from_fs">Eliminare questo allegato dal file storage?</msg>
   <msg key="Description">Descrizione:</msg>
+  <msg key="Detach">Scollega</msg>
+  <msg key="Detach_file_from">Scollega file da %object_name%</msg>
   <msg key="File">File</msg>
   <msg key="Last_Modified">Ultima Modifica</msg>
   <msg key="lt_Add_Attachment_Folder">Aggiungi un allegato alla cartella</msg>
@@ -35,6 +41,9 @@ Per caricare il file in una cartella, apri la cartella cliccando sul suo nome, p
   <msg key="Name">Nome</msg>
   <msg key="No_such_type">Nessun tipo</msg>
   <msg key="Object">Oggetto</msg>
+  <msg key="on_Object">sull&#39;Oggetto</msg>
+  <msg key="Only_detach">Questo elemento è allegato ad altri oggetti. Puoi solo rimuoverlo da questo oggetto, ma non cancellarlo dal file storage.</msg>
+  <msg key="remove">rimuovi</msg>
   <msg key="Size">Dimensione</msg>
   <msg key="Title">Titolo:</msg>
   <msg key="Top">In alto</msg>

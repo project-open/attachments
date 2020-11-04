@@ -5,17 +5,11 @@
   <msg key="Add_File">Bestand toevoegen</msg>
   <msg key="Add_folder_Link">Koppeling naar map toevoegen</msg>
   <msg key="Add_pretty_name">%pretty_name% toevoegen</msg>
-  <msg key="Are_you_sure_detach">Weet u zeker dat u deze bijlage wilt verwijderen?</msg>
-  <msg key="Attach">Toevoegen</msg>
+  <msg key="Attach">Bijvoegen</msg>
   <msg key="attach_new">&lt;b&gt;Nieuwe&lt;/b&gt; bijlage:</msg>
   <msg key="Attach_URL">URL bijvoegen</msg>
-  <msg key="Attachment">Bijlage</msg>
-  <msg key="Can_delete">Kan verwijderd worden</msg>
   <msg key="Choose">Kiezen</msg>
-  <msg key="delete_from_fs">Deze bijlagen van de opslag verwijderen?</msg>
   <msg key="Description">Beschrijving:</msg>
-  <msg key="Detach">Bijvoegen</msg>
-  <msg key="Detach_file_from">Los koppelen van %object_name%</msg>
   <msg key="File">Bestand</msg>
   <msg key="Last_Modified">Laatste wijziging</msg>
   <msg key="lt_Add_Attachment_Folder">Nieuwe hoofdmap aanmaken</msg>
@@ -34,16 +28,13 @@ map_naam XXX... Een koppeling hiernaar maken?</msg>
   <msg key="lt_The_specified_parent_">De gekozen bovenliggende map is niet geldig</msg>
   <msg key="lt_To_attach_a_file_alre">Om een bestand uit een map bij te voegen, dient op de mapnaam te worden geklikt en vervolgens op de koppeling &amp;quot;[ Kiezen ]&amp;quot; naast het bestand. Om een nieuw bestand in een map te plaatsen, dient op de mapnaam te worden geklikt en vervolgens op de koppeling &amp;quot;Invoeren nieuw bestand | URL&amp;quot;</msg>
   <msg key="lt_Upload_New_Attachment">Nieuwe bijlage aanbieden</msg>
-  <msg key="lt_Use_the_Browse_button">De knop \&#34;Bladeren\&#34; gebruiken om een bestand te vinden en dan op \&#34;Openen\&#34; klikken</msg>
+  <msg key="lt_Use_the_Browse_button">De knop \&quot;Bladeren\&quot; gebruiken om een bestand te vinden en dan op \&quot;Openen\&quot; klikken</msg>
   <msg key="lt_You_are_attaching_a_d">Er wordt een document bij %pretty_object_name% bijgevoegd.</msg>
-  <msg key="lt_You_probably_clicked_">Je hebt waarschijnlijk meer dan eens op de knop &#34;Toevoegen&#34; geklikt. Controleer of het bestand correct in de &lt;a href=&#34;%folder_url%&#34;&gt;gewenste map&lt;/a&gt; is opgeslagen. De knop &#34;Terug&#34; van de browser kan gebruikt worden om de handeling te herhalen.</msg>
+  <msg key="lt_You_probably_clicked_">Je hebt waarschijnlijk meer dan eens op de knop &quot;Toevoegen&quot; geklikt. Controleer of het bestand correct in de &lt;a href=&quot;%folder_url%&quot;&gt;gewenste map&lt;/a&gt; is opgeslagen. De knop &quot;Terug&quot; van de browser kan gebruikt worden om de handeling te herhalen.</msg>
   <msg key="lt_Your_file_is_larger_t">Het bestand is groter dan de maximaal toegestane omvang (%max_number_of_bytes% bytes)</msg>
   <msg key="Name">Naam</msg>
   <msg key="No_such_type">Dit type bestaat niet</msg>
   <msg key="Object">Object</msg>
-  <msg key="on_Object">op object</msg>
-  <msg key="Only_detach">Dit item is toegevoegd aan andere objecten. U kunt dit item alleen verwijderen van dit object, maar niet verwijderen van de bestandopslag.</msg>
-  <msg key="remove">verwijderen</msg>
   <msg key="Size">Grootte</msg>
   <msg key="Title">Titel</msg>
   <msg key="Top">Top</msg>

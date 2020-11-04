@@ -27,9 +27,9 @@
   <msg key="lt_The_specified_parent_">Spesifisert foreldre-folder ikke gyldig.</msg>
   <msg key="lt_To_attach_a_file_alre">For å legge til en fil som allerede er i en mappe, åpne mappen ved først å klikke på navnet til meppen, så klikk &amp;quot;[ Velg ]&amp;quot;-lenken ved siden av filen. For å laste opp en ny fil til en mappe, åpne mappen ved å klikke på mappens navnm så klikker du på den korrekte &amp;quot;Legg til en ny: Fil | URL&amp;quot;-lenken</msg>
   <msg key="lt_Upload_New_Attachment">Last opp nytt vedlegg</msg>
-  <msg key="lt_Use_the_Browse_button">Bruk &#34;Søk...&#34;-knappen for å finne filen din, så klikker du &#34;Åpne&#34;.</msg>
+  <msg key="lt_Use_the_Browse_button">Bruk &quot;Søk...&quot;-knappen for å finne filen din, så klikker du &quot;Åpne&quot;.</msg>
   <msg key="lt_You_are_attaching_a_d">Du legger ved et dokument til %pretty_object_name%. </msg>
-  <msg key="lt_You_probably_clicked_">Du har sannsynligvis klikket på Legg til-knappen mer enn en gang. Sjekk om filen er skikkelig innlagt i &lt;a href=&#34;%folder_url%&#34;&gt;mappen&lt;/a&gt; du ønsker, eller bruk Tilbake-knappen for å gjenta operasjonen.</msg>
+  <msg key="lt_You_probably_clicked_">Du har sannsynligvis klikket på Legg til-knappen mer enn en gang. Sjekk om filen er skikkelig innlagt i &lt;a href=&quot;%folder_url%&quot;&gt;mappen&lt;/a&gt; du ønsker, eller bruk Tilbake-knappen for å gjenta operasjonen.</msg>
   <msg key="lt_Your_file_is_larger_t">Filen din er større enn maksimum filstørrelse tillatt på dette systemet (%max_number_of_bytes% bytes)</msg>
   <msg key="Name">Navn</msg>
   <msg key="No_such_type">Ingen slik type</msg>

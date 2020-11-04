@@ -29,7 +29,7 @@
   <msg key="lt_Upload_New_Attachment">上传新附件</msg>
   <msg key="lt_Use_the_Browse_button">用“浏览……”按钮查找文件，然后单击“打开”。</msg>
   <msg key="lt_You_are_attaching_a_d">正在将文档附加到%pretty_object_name%。</msg>
-  <msg key="lt_You_probably_clicked_">可能已多次点击“增加”钮，检查文件是否已经装入&lt;a href=&#34;%folder_url%&#34;&gt;文件夹&lt;/a&gt;，或者用“后退”钮返回，重新进入此版本文件。 </msg>
+  <msg key="lt_You_probably_clicked_">可能已多次点击“增加”钮，检查文件是否已经装入&lt;a href=&quot;%folder_url%&quot;&gt;文件夹&lt;/a&gt;，或者用“后退”钮返回，重新进入此版本文件。 </msg>
   <msg key="lt_Your_file_is_larger_t">文件大于系统规定的最大文件大小（%max_number_of_bytes%字节）</msg>
   <msg key="Name">名称</msg>
   <msg key="No_such_type">无此类型</msg>
